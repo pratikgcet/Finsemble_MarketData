@@ -1,0 +1,22 @@
+{
+    "accountList": {
+        "output": "components/accountList/accountList",
+        "entry": "./src/components/accountList/accountList.js"
+    },
+    "accountDetail": {
+        "output": "components/accountDetail/accountDetail",
+        "entry": "./src/components/accountDetail/accountDetail.js"
+    },
+    "WindowlessExample": {
+        "output": "components/WindowlessExample/WindowlessExample",
+        "entry": "./src/components/WindowlessExample/WindowlessExample.js"
+    },
+    "MarketData": {
+        "output": "components/MarketData/MarketData",
+        "entry": "./src/components/MarketData/MarketData.js"
+    },
+    "TimeSeriesData": {
+        "output": "components/TimeSeriesData/TimeSeriesData",
+        "entry": "./src/components/TimeSeriesData/TimeSeriesData.js"
+    }
+}
